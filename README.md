@@ -1,2 +1,2 @@
 # fan-courier
-WooCommerce integration for Fan Courer Romania
+WooCommerce integration for Fan Courier Romania
